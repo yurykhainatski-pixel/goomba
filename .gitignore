@@ -1,0 +1,33 @@
+# Игнорирование системных файлов
+.DS_Store
+.DS_Store?
+Thumbs.db
+ehthumbs.db
+
+# Игнорирование файлов конфигурации редакторов
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Игнорирование логов
+*.log
+npm-debug.log*
+
+# Папка с зависимостями (например, для Node.js)
+node_modules/
+
+# Редакторы 
+.vscode/
+.idea/
+*.iml
+.project
+..classpath
+settings/
+.vs/
+
+# Временные файлы
+.cache/
+.tmp/
+tmp/
+temp/
